@@ -1,7 +1,7 @@
 # Red Team Operations
 
 ## **Team Agreement**
-+ [Team Agreement](https://docs.google.com/document/d/1qOSyj3W9iF73KhnqICLCjSnCoz02s0y_eZlCjiOJHJk/edit?usp=sharing)
++ [Team Agreement](https://github.com/Red-team-401d6/Supporting-Docs/wiki/Team-Agreement#git-process)
 
 
 ## **Project Scope**
