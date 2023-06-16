@@ -22,7 +22,7 @@
 ## **SOP's**
 + [For Planning A Red Teaming Exercise](https://github.com/Red-team-401d6/SOPs/blob/main/1.%20For%20Planning%20A%20Red%20Teaming%20Exercise.md)
 
-+ [Rules of engagement.md](https://github.com/Red-team-401d6/SOPs/commit/257627a57b275cdbfa657cd7fd9d1569cbb13271)
++ [Rules of engagement](https://github.com/Red-team-401d6/SOPs/commit/257627a57b275cdbfa657cd7fd9d1569cbb13271)
 
 
 ## **Presentation**
