@@ -35,7 +35,7 @@
 
 ## **Scripts**
 
-+ [Scripts Repo]()
++ [Scripts Repo](https://github.com/Red-team-401d6/Scripts)
 
 ---
 ## **Contributors and Links**
