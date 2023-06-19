@@ -15,7 +15,7 @@
 ## **Topologies and Aides**
 
 + [Topology]() 
-<img width="600" height="400" src="https://github.com/Red-team-401d6/Supporting-files/blob/main/SimCorp%20topology.jpg">
+<img width="800" height="400" src="https://github.com/Red-team-401d6/Supporting-files/blob/main/SimCorp%20topology.jpg">
 
 + [Topology Write Up]()
 
